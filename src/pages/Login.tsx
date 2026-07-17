@@ -67,8 +67,9 @@ export default function Login() {
           <div className="w-20 h-20 bg-white/10 backdrop-blur rounded-full flex items-center justify-center mx-auto mb-4 border border-white/20">
             <Building2 className="w-10 h-10 text-blue-400" />
           </div>
-          <h1 className="text-2xl font-bold text-white tracking-wide">
-            BUSINESS LOAN LEAD SYSTEM
+        
+          <h1 className="text-2xl font-bold text-white tracking-wide uppercase">
+            AURA LOAN MANAGEMENT
           </h1>
           <p className="text-blue-300 mt-1 text-sm">
             Collect. Connect. Empower Businesses.
@@ -151,7 +152,8 @@ export default function Login() {
           <p className="text-sm text-slate-400">Need Help?</p>
           <div className="flex items-center justify-center gap-2 mt-1 text-sm text-blue-300">
             <Phone className="w-4 h-4" />
-            <span>Contact Support: +91 12345 67890</span>
+            
+            <span>Contact Support: +91 90802 09684</span>
           </div>
         </div>
 
@@ -161,7 +163,8 @@ export default function Login() {
             <ShieldCheck className="w-3 h-3" />
             <span>Secure Authentication</span>
           </div>
-          <p>&copy; 2026 Business Loan Lead System. All rights reserved.</p>
+          
+          <p>&copy; 2026 Aura Loan Management. All rights reserved.</p>
         </div>
       </div>
     </div>
